@@ -17,3 +17,7 @@ We will be able to reduce the spread of Covid-19 by preventing the meeting of pe
 
 Note:
 There is still some work that needs to be done, like getting to know nearby shope within certain range using geolocation and able to select them, and select the products from each shop and add to cart, finally give timings to each customer. Because we dont know much knowledge of html, php, js we were unable to do that in 3 days as we also needed to learn them from scratch.
+
+Instructions:
+After downloading the zip file , unzip it and place it in C:\xampp\htdocs or similar location. We used xampp to test in local network.
+In the file you can find the sql find which u need to keep in the server or http://localhost/phpmyadmin .
